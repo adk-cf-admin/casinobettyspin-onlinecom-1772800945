@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#242424",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#41316C",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#41316C",
+            "yellow-button": "#6F5AF7",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#6F5AF7",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3999"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4000",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "BettySpin Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4008",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "BettySpin"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "BettySpin",
+                    "title": "BettySpin Casino Canada — CA$2,250 Bonus + 250 FS",
+                    "description": "Play at BettySpin Casino Canada with 6,000+ licensed games, live dealers & CA$2,250 welcome bonus + 250 Free Spins. Curaçao certified. Join now!\n",
+                    "canonical": "casinobettyspin-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4002",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinobettyspin-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4003"
+                },
+                "hero": {
+                    "title": "Canada's Premier Online Casino — BettySpin",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4004",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4005",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We operate under Curaçao eGaming licence OGL\/2024\/1126\/0521, offer 6,000+ certified games, instant CAD deposits via Interac, and 24\/7 English-speaking support. Here's why Canadian players choose BettySpin:\n",
+                    "items": [
+                        "Licensed by Curaçao eGaming OGL\/2024\/1126\/0521 with certified fair play",
+                        "6,000+ games from 66+ providers: Pragmatic Play, Evolution, NetEnt",
+                        "CA$2,250 Welcome Bonus + 250 Free Spins across first 3 deposits",
+                        "Instant CAD deposits via Interac, Visa, Mastercard & crypto",
+                        "SSL 256-bit encryption protecting 100% of Canadian player data",
+                        "24\/7 customer support in English via live chat and email"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Canadian players enjoying secure, certified gaming at BettySpin. Our dedicated English-speaking team is ready to assist you around the clock, 24\/7\/365.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "BettySpin App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4006",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "BettySpin App",
+                    "mobileGooglePlayImageTitle": "BettySpin App",
+                    "mobileIosImageTitle": "BettySpin App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About BettySpin Casino",
+                        "description1": "We are a crypto-friendly online casino proudly serving Canadian players with a modern, mobile-first platform. Licensed under Curaçao eGaming and offering 6,000+ games from top-tier providers, we deliver premium entertainment in CAD.\n",
+                        "items": [
+                            "Launched with 6,000+ certified games from 66+ providers",
+                            "Curaçao eGaming licence OGL\/2024\/1126\/0521 obtained",
+                            "Added Interac & crypto payments for Canadian players",
+                            "Expanded live casino with Evolution Gaming studios"
+                        ],
+                        "description2": "We operate under Curaçao eGaming licence OGL\/2024\/1126\/0521 with SSL 256-bit encryption on 100% of transactions. All games are RNG-certified for provably fair outcomes, ensuring Canadian players can wager with full confidence.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4007",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep growing our game library for Canadian players. Responsible gaming tools including deposit limits and self-exclusion are always available. Join BettySpin today for premium, trusted casino entertainment in Canada!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Casino Game Guide for Canadians",
+                        "description": "<h2>Complete Casino Game Guide for Canadian Players at BettySpin<\/h2>\n\n<p>At BettySpin, we proudly offer Canadian players access to one of the most expansive gaming libraries available at any online casino in Canada — over 6,000 certified titles spanning slots, table games, live dealer experiences, and sports betting. Our platform is powered by 66+ world-class software providers, including Pragmatic Play, Evolution Gaming, NetEnt, Microgaming, Play'n GO, Hacksaw Gaming, and Nolimit City. Every single game in our portfolio is RNG-certified and regularly audited to guarantee fair outcomes for every player. Whether you are spinning the reels of the latest video slots from your desktop or accessing our mobile-first casino app on your iPhone or Android device, BettySpin delivers a seamless, high-performance gaming experience purpose-built for Canadian players.<\/p>\n\n<h3>Slots: The Heart of Our Canadian Casino Library<\/h3>\n<p>Our slot game collection is the largest segment of our portfolio, featuring thousands of titles across every theme and volatility level imaginable. Canadian players can choose from classic 3-reel fruit machines, modern 5-reel video slots, and cutting-edge Megaways mechanics with up to 117,649 ways to win. We stock titles with some of the highest RTPs in the industry — for example, Pragmatic Play's Gates of Olympus delivers a 96.5% RTP, while NetEnt's Blood Suckers offers a remarkable 98% RTP. Our progressive jackpot slots — including Mega Moolah from Microgaming — have paid out life-changing prizes worth millions of CAD to players worldwide. Fans of Hacksaw Gaming's innovative slot formats will find titles like Stick'em (96.5% RTP) and Chaos Crew II, while Nolimit City contributes cult favourites like xWays Hoarder and Fire in the Hole 2.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Slots:<\/strong> Hundreds of titles using the Megaways engine by Big Time Gaming, delivering up to 117,649 win ways per spin. Popular options include Bonanza Megaways (96.5% RTP), Buffalo King Megaways (96.5% RTP), and Extra Chilli Megaways (96.17% RTP) — all available for Canadian players with bets from CA$0.10.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpot Slots:<\/strong> Mega Moolah (Microgaming), Major Millions, and Divine Fortune from NetEnt each feature seed jackpots that grow with every spin. Mega Moolah has historically paid out jackpots exceeding CA$20 million, making it the most popular progressive slot among Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy Bonus Feature Slots:<\/strong> Titles like Razor Shark (96.7% RTP) and Dead or Alive 2 (96.82% RTP) allow Canadian players to purchase bonus round access directly, offering immediate high-volatility excitement without waiting for organic triggers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cluster Pay Slots:<\/strong> Games such as Reactoonz (96.51% RTP) and Jammin' Jars 2 (96.5% RTP) use cluster-pay mechanics instead of traditional paylines, providing unique gameplay mechanics beloved by Canadian online gamblers seeking fresh experiences.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino: Real Action Streamed to Canadian Players<\/h3>\n<p>Our live casino section is powered exclusively by Evolution Gaming — the industry's leading live dealer studio — ensuring Canadian players experience broadcast-quality streams, professional dealers, and immersive table action 24 hours a day. We feature over 200 live tables across roulette, blackjack, baccarat, poker, and game shows. All live dealer sessions are streamed in Full HD and Ultra HD with sub-second latency, creating an atmosphere that rivals the best brick-and-mortar casinos. Evolution's studios, certified by independent testing labs, use multiple camera angles and dedicated chat features so Canadian players interact directly with dealers in real time.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> Including European Roulette (RTP 97.3%), Lightning Roulette with random multipliers up to 500x, Immersive Roulette with slow-motion replays, and Auto Roulette for non-stop rapid-fire rounds. Stakes range from CA$0.50 to CA$25,000 per spin to accommodate all Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (99.28% RTP), Infinite Blackjack with unlimited seats, Lightning Blackjack with 2x-25x random multipliers, and VIP Blackjack tables with stakes up to CA$10,000 per hand — all featuring English-speaking professional dealers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid rounds, Baccarat Squeeze with dramatic card reveals, and No Commission Baccarat — ideal for Canadian high rollers who prefer fast-paced, low-house-edge wagering.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (max win 20,000x), Monopoly Live combining the classic board game with real money wagering, Mega Ball with multipliers up to 1,000x, Dream Catcher money wheel, and Deal or No Deal Live — among the most-watched entertainment products at Canadian online casinos.<\/li>\n<\/ul>\n\n<h3>Table Games: Classic Casino Action for Canada<\/h3>\n<p>Beyond our live casino, we offer an extensive range of RNG-powered table games available instantly with no waiting for a seat. Canadian players can access dozens of blackjack and roulette variants at any time of day, along with video poker, craps, and specialty games. Our RNG table games are tested and certified by accredited independent labs, guaranteeing mathematically correct outcomes on every hand and every spin. This makes BettySpin one of the most comprehensive online casino destinations for Canadian table game enthusiasts who value both fairness and variety.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #c0c0c0; background-color: #111111; border: 1px solid #2a2a2a;\">\n  <thead>\n    <tr style=\"background-color: #4c1d95;\">\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">Game<\/th>\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">RTP<\/th>\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">Provider<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">96.5%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Pragmatic Play<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Blood Suckers<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">98.0%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">NetEnt<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Dead or Alive 2<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">96.82%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Razor Shark<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">96.7%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Push Gaming<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Live Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">99.28%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Evolution<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Live Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">98.94%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Evolution<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">97.3%<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Evolution<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Sports Betting Available for Canadian Players<\/h3>\n<p>In addition to our casino games, BettySpin features a fully integrated sportsbook covering a wide range of sports popular with Canadian players — including NHL hockey, NBA basketball, CFL football, MLB baseball, soccer, tennis, UFC, and esports. Canadian sports fans can place pre-match bets, live in-play wagers, and accumulator combinations across hundreds of daily events. Our sportsbook uses competitive odds and offers a dedicated welcome bonus for sports bettors who prefer wagering on their favourite Canadian teams. This makes BettySpin a true all-in-one gaming platform for Canadian players who enjoy both casino entertainment and sports wagering under one trusted licence.<\/p>\n\n<h3>Mobile Casino: Play Anywhere in Canada<\/h3>\n<p>Our platform is engineered with a mobile-first philosophy, ensuring Canadian players enjoy a flawless gaming experience on smartphones and tablets. BettySpin supports all modern mobile browsers — Safari on iOS and Chrome on Android — with no app download required. Our Progressive Web App (PWA) shortcut allows Canadian players to save BettySpin to their home screen for instant one-tap access, replicating a native app experience without occupying device storage. All 6,000+ games are fully touch-optimised, and the same CA$2,250 + 250 Free Spins welcome bonus is accessible from any mobile device. Furthermore, deposits and withdrawals via Interac, Visa, and Skrill function identically on mobile, making banking effortless for Canadian players on the go.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>iOS Compatibility:<\/strong> Full support for iPhone and iPad using Safari browser. All live dealer games, slots, and the cashier function without any plugin requirements. Canadian players on iOS can claim bonuses and process Interac deposits seamlessly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Android Compatibility:<\/strong> Chrome-based access on all Android devices with automatic resolution adjustment for screens ranging from 320px to 4K tablets. Our mobile lobby loads in under 2 seconds on a standard Canadian LTE connection.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PWA Shortcut:<\/strong> Canadian players can install BettySpin directly from their mobile browser in two taps, creating a dedicated app icon without going through the App Store or Google Play. Notifications for bonuses and tournaments can be enabled via the PWA.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming at BettySpin Canada<\/h3>\n<p>We are fully committed to responsible gambling practices for all Canadian players. BettySpin provides a comprehensive suite of player protection tools, including daily, weekly, and monthly deposit limits that can be set directly from the account settings panel. Canadian players can activate cooling-off periods ranging from 24 hours to 6 weeks, or initiate a full self-exclusion at any time via our support team. Account verification (KYC) and anti-money-laundering (AML) protocols are applied to all withdrawal requests, ensuring the platform remains safe for every Canadian user. We encourage players to use tools such as Gamblers Anonymous Canada and the Problem Gambling Helpline (1-888-230-3505) if they require additional support.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "CA Banking, Bonuses & Promotions Guide",
+                        "description": "<h2>Banking, Bonuses & Promotions for Canadian Players at BettySpin<\/h2>\n\n<p>At BettySpin, we've engineered our entire banking and bonus infrastructure around the needs of Canadian players. From Interac — Canada's most trusted payment network — to cutting-edge cryptocurrency options including Bitcoin, Ethereum, and Litecoin, we ensure every Canadian player can deposit and withdraw in CAD with zero transaction fees. Our welcome bonus package is specifically designed to maximise value across your first three deposits, rewarding new Canadian players with up to CA$2,250 plus 250 Free Spins. Additionally, our ongoing promotions calendar delivers reload bonuses, missions, tournaments, and a Wheel of Fortune feature that keeps the rewards flowing long after you've completed the initial welcome package. Every bonus at BettySpin has transparent terms, and our 24\/7 English-speaking support team is always available to help Canadian players navigate any aspect of the cashier or bonus system.<\/p>\n\n<h3>Welcome Bonus Package: CA$2,250 + 250 Free Spins<\/h3>\n<p>Our three-part welcome package is one of the most generous bonus offerings available at any online casino in Canada. The package activates across your first three deposits, with a minimum deposit of CA$30 required to trigger each stage. The standard wagering requirement across the package is 35x the bonus amount, giving Canadian players a clear and achievable path to converting bonus funds into real CAD withdrawals. All free spins are credited on popular Pragmatic Play titles and must be used within 14 days of crediting. The maximum bet allowed while wagering a bonus is CA$5 per spin, ensuring compliance with bonus terms throughout the playthrough period.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>First Deposit:<\/strong> 100% match bonus up to CA$750 + 100 Free Spins. Minimum deposit CA$30. Wagering requirement 35x the bonus amount. Slots contribute 100% towards wagering; live roulette and blackjack contribute 10%. Bonus valid for 14 days.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Second Deposit:<\/strong> 75% match bonus up to CA$750 + 75 Free Spins. Minimum deposit CA$30. Same 35x wagering requirement applies. Canadian players can use this stage to explore a wider range of games including video poker and specialty titles.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Third Deposit:<\/strong> 100% match bonus up to CA$750 + 75 Free Spins, completing the full CA$2,250 + 250 Free Spins package. Total package value makes BettySpin one of the highest-value welcome bonus casinos for Canadian players in the market today.<\/li>\n<\/ul>\n\n<h3>What Ongoing Promotions Are Available for Canadian Players?<\/h3>\n<p>Beyond the welcome package, BettySpin offers Canadian players a rich calendar of regular promotions designed to sustain long-term value. Reload bonuses are available on selected days of the week, typically offering 50%-75% match rates on deposits made via Interac or card. Missions and challenges reward Canadian players with bonus points, free spins, and cashback for completing specific in-game objectives across our slot and live casino sections. Our weekly tournaments pit Canadian players against each other on designated slot titles, with leaderboard prize pools distributed to the top finishers in real CAD. Additionally, the Wheel of Fortune feature provides daily spin rewards including free spins, cashback credits, and tournament entry tickets.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reload Bonuses:<\/strong> Regular deposit match promotions for existing Canadian players, with match rates between 50%-75% and minimum deposits of CA$20. Check the promotions page weekly for current offers targeted at Canadian accounts.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Weekly Slot Tournaments:<\/strong> Compete against other Canadian players on featured slot titles. Prize pools distributed in real CAD to the top 20 finishers on the leaderboard. Entry is free for all registered Canadian accounts with no additional opt-in required.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Missions System:<\/strong> Complete daily and weekly in-game challenges to earn loyalty points redeemable for bonus credits, free spins, or cashback. Missions rotate regularly, keeping the experience fresh for Canadian players who visit the platform daily.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wheel of Fortune:<\/strong> Daily free spin on a reward wheel delivering prizes including Free Spins, cashback percentages, bonus credits, and tournament tickets. Available to all verified Canadian accounts with at least one prior deposit processed.<\/li>\n<\/ul>\n\n<h3>Canadian Payment Methods: Deposits & Withdrawals<\/h3>\n<p>We have specifically integrated the payment methods most trusted and used by Canadian players. Interac — the gold standard of Canadian online payments — is available for both instant deposits and same-day withdrawals with zero transaction fees. Visa and Mastercard facilitate instant deposits and 1-3 business day withdrawals directly to Canadian bank accounts. For tech-forward Canadian players, our cryptocurrency cashier supports Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC) with instant deposits and withdrawals processed within minutes. E-wallets including Skrill and Neteller provide an excellent balance of speed and convenience for Canadian players who prefer a buffer between their bank account and their casino wallet. All transactions are processed in CAD, eliminating currency conversion costs for Canadian players entirely.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #c0c0c0; background-color: #111111; border: 1px solid #2a2a2a;\">\n  <thead>\n    <tr style=\"background-color: #4c1d95;\">\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">Method<\/th>\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">Speed<\/th>\n      <th style=\"border: 1px solid #2a2a2a; border-bottom: 2px solid #a855f7; padding: 12px 8px; text-align: left; color: #ffffff; font-weight: bold; text-transform: uppercase; font-size: 12px;\">Min<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ 24h<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Visa<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ 1-3d<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ 1-3d<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ 2-4h<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ 2-4h<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr style=\"background-color: #191919;\">\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ Instant<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px; color: #ffffff;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">Instant \/ Instant<\/td>\n      <td style=\"border: 1px solid #2a2a2a; padding: 10px 8px;\">CA$10<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Transaction Security and KYC Verification for Canada<\/h3>\n<p>Every financial transaction at BettySpin is protected by SSL 256-bit encryption, ensuring that Canadian players' banking details and personal information remain completely secure at all times. We comply with the anti-money-laundering (AML) standards required by our Curaçao eGaming licence OGL\/2024\/1126\/0521, meaning all Canadian withdrawal requests are subject to standard KYC identity verification. The verification process requires Canadian players to submit a valid government-issued photo ID (passport or provincial driver's licence), proof of address (utility bill or bank statement dated within 3 months), and in some cases a payment method confirmation document. Once verified, future withdrawals process without additional documentation requirements, streamlining the cashout experience for regular Canadian players. Our compliance team processes KYC documents within 24-48 hours during business days.<\/p>\n\n<h3>VIP Program and Loyalty Rewards for Canadian Players<\/h3>\n<p>BettySpin's VIP program recognises and rewards the most dedicated Canadian players with escalating benefits across multiple loyalty tiers. As Canadian players accumulate wagering volume, they progress through VIP levels that unlock increasingly generous perks including higher withdrawal limits, dedicated account managers, faster withdrawal processing times, exclusive CAD reload bonuses, and invitations to private high-roller tournaments. Our top-tier Canadian VIP members benefit from personalised service from a dedicated English-speaking account manager available via direct phone and email contact. Additionally, VIP Canadian players receive tailored bonus structures with reduced wagering requirements — as low as 20x on certain personalised offers — significantly improving the real-money value of loyalty rewards compared to standard promotional terms.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Higher Withdrawal Limits:<\/strong> VIP Canadian players unlock increased daily and monthly withdrawal limits compared to standard accounts, with top-tier members able to withdraw up to CA$50,000 per week via Interac and e-wallets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Dedicated Account Manager:<\/strong> Senior Canadian VIP players receive a personal account manager who provides tailored bonus offers, resolves any cashier issues as priority, and provides advance notice of upcoming tournaments and promotions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive CAD Bonuses:<\/strong> VIP members receive monthly reload bonuses credited in CAD with wagering requirements as low as 20x — providing significantly better value than the standard 35x requirement offered to regular Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Priority Withdrawals:<\/strong> VIP Canadian accounts benefit from priority processing on all withdrawal requests, with Interac cashouts typically completed within 12 hours — twice as fast as the standard 24-hour processing time for regular Canadian accounts.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the welcome bonus at BettySpin Canada?",
+                            "answer": "Register your account, make a minimum CA$30 deposit via Interac, Visa, or Mastercard, and your first bonus of 100% up to CA$750 + 100 Free Spins credits automatically within minutes. The full welcome package delivers CA$2,250 + 250 FS across three deposits with 35x wagering requirement.\n"
+                        },
+                        {
+                            "title": "Is BettySpin Casino licensed and safe for Canadian players?",
+                            "answer": "Yes. BettySpin operates under Curaçao eGaming licence OGL\/2024\/1126\/0521 and uses SSL 256-bit encryption on all transactions. All games are independently RNG-certified for fair outcomes. Full KYC verification and AML compliance protect every Canadian player account.\n"
+                        },
+                        {
+                            "title": "What payment methods are available for Canadian players?",
+                            "answer": "Canadian players can deposit and withdraw using Interac (instant deposits, 24h withdrawals), Visa, Mastercard, Skrill, Neteller, Bitcoin, Ethereum, and Litecoin. All transactions are processed in CAD with zero conversion fees and a minimum deposit of CA$10.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at BettySpin Canada?",
+                            "answer": "Interac withdrawals process within 24 hours. Skrill and Neteller e-wallet cashouts take 2-4 hours. Visa and Mastercard withdrawals take 1-3 business days. Cryptocurrency withdrawals via Bitcoin or Ethereum are processed instantly. VIP Canadian accounts receive priority cashout processing.\n"
+                        },
+                        {
+                            "title": "How many games does BettySpin offer to Canadian players?",
+                            "answer": "We offer over 6,000 certified games from 66+ world-class software providers, including Pragmatic Play, Evolution Gaming, NetEnt, Microgaming, Play'n GO, Hacksaw Gaming, and Nolimit City. The library includes slots, live dealer tables, RNG table games, and a full sports betting section for Canadian players.\n"
+                        },
+                        {
+                            "title": "Can I play BettySpin on my mobile phone in Canada?",
+                            "answer": "Yes. BettySpin is fully optimised for iOS and Android mobile browsers with no download required. A Progressive Web App shortcut lets Canadian players save BettySpin to their home screen for instant access. All 6,000+ games, bonuses, and banking features work seamlessly on mobile devices across Canada.\n"
+                        },
+                        {
+                            "title": "What is the wagering requirement for BettySpin bonuses?",
+                            "answer": "The standard wagering requirement for BettySpin welcome bonuses is 35x the bonus amount. Slots contribute 100% towards wagering, while live roulette and blackjack contribute 10%. The maximum bet while wagering is CA$5 per spin. Bonuses must be wagered within 14 days of crediting.\n"
+                        },
+                        {
+                            "title": "Does BettySpin have a VIP program for loyal Canadians?",
+                            "answer": "Yes. Our multi-tier VIP program rewards loyal Canadian players with higher withdrawal limits up to CA$50,000\/week, a dedicated English-speaking account manager, priority cashout processing, and exclusive reload bonuses with reduced wagering requirements as low as 20x. Progress through VIP levels by accumulating wagering volume.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

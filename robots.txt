@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinobettyspin-online.com/
+Sitemap: https://casinobettyspin-online.com/sitemap.xml
